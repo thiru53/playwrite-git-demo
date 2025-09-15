@@ -3,9 +3,7 @@ package tests;
 import com.microsoft.playwright.*;
 import org.junit.jupiter.api.*;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-public class SampleTest1 {
+public class SampleTest {
     static Playwright playwright;
     static Browser browser;
     static BrowserContext context;
